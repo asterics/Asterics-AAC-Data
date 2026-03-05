@@ -1,23 +1,24 @@
 {
-  "name": "asterics-grid-boards",
+  "name": "asterics-aac-data",
   "version": "1.0.0",
-  "description": "Holds default configurations used by AsTeRICS Grid",
+  "description": "Holds data used by Asterics AAC",
   "main": "index.js",
   "scripts": {
     "generate": "node scripts/generateMetadata.js && node scripts/generatePredefinedActions.js && node scripts/generateMetadata.js beta && node scripts/generatePredefinedActions.js beta",
     "generate-beta": "node scripts/generateMetadata.js beta && node scripts/generatePredefinedActions.js beta",
+    "upload-phrases": "node scripts/uploadKnownPhrases.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/asterics/AsTeRICS-Grid-Boards.git"
+    "url": "git+https://github.com/asterics/Asterics-AAC-Data.git"
   },
   "author": "Benjamin Klaus",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/asterics/AsTeRICS-Grid-Boards/issues"
+    "url": "https://github.com/asterics/Asterics-AAC-Data/issues"
   },
-  "homepage": "https://github.com/asterics/AsTeRICS-Grid-Boards#readme",
+  "homepage": "https://github.com/asterics/Asterics-AAC-Data#readme",
   "devDependencies": {
     "sharp": "^0.33.4"
   }
