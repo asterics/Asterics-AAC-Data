@@ -6,7 +6,8 @@
   "scripts": {
     "generate": "node scripts/generateMetadata.js && node scripts/generatePredefinedActions.js && node scripts/generateMetadata.js beta && node scripts/generatePredefinedActions.js beta",
     "generate-beta": "node scripts/generateMetadata.js beta && node scripts/generatePredefinedActions.js beta",
-    "upload-phrases": "node scripts/uploadKnownPhrases.mjs",
+    "phrases-get": "node scripts/getKnownPhrases.mjs",
+    "phrases-upload": "npm run phrases-get && node scripts/uploadKnownPhrases.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
