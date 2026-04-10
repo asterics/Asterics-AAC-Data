@@ -6,7 +6,7 @@ import { fileURLToPath } from 'node:url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const API_URL = 'http://localhost:5555/tts/known-phrases';
+const API_URL = 'http://localhost:5555/api/v1/tts/known-phrases';
 const INPUT_FILE = 'known_phrases.json';
 
 async function uploadPhrases() {
