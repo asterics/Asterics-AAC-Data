@@ -9,6 +9,7 @@ const __dirname = path.dirname(__filename);
 const OUTPUT_FILENAME = "known_phrases.json";
 const READABLE_FOLDER = "live_readable";
 const READABLE_SUFFIX = ".readable.json";
+const TTS_TEST_PHRASES_FILE = "../live_tts_test_phrases.json";
 
 /**
  * Aggregates labels by locale from live_metadata.json and all referenced JSON files
@@ -52,6 +53,15 @@ async function aggregateLabels(masterFilePath) {
                 }
             }
         }
+
+        // add live_test_tts_phrases.json
+        console.log(`reading tts test phrases from ${TTS_TEST_PHRASES_FILE}...`);
+        const ttsTestPhrasesPath = path.resolve(__dirname, TTS_TEST_PHRASES_FILE);
+        const testPhrasesString = await readFile(ttsTestPhrasesPath, 'utf-8');
+        const testPhrasesObject = JSON.parse(testPhrasesString);
+        const testPhrases = Object.values(testPhrasesObject);
+        console.log(`adding ${testPhrases.length} tts test phrases...`);
+        testPhrases.forEach(phrase => finalLabels.add(normalizeText(phrase)));
 
         return Array.from(finalLabels).sort();
     } catch (err) {
