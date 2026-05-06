@@ -1,0 +1,16 @@
+{
+  "name": {
+    "en": "Examples for education",
+    "de": "Beispiele für Schulen"
+  },
+  "author": "Projekt InDiKo, UAS Technikum Wien",
+  "website": "https://www.technikum-wien.at/forschungsprojekte/indiko/?n_tags=3154",
+  "languages": ["de", "en", "es"],
+  "description": {
+    "en": "Configuration for communication in the context of education. Developed in project \"InDiKo\" at UAS Technikum Wien.",
+    "de": "Konfiguration für Kommunikation im Schul- oder Kindergartenkontext. Entwickelt im Projekt \"InDiKo\" and der FH Technikum Wien."
+  },
+  "wordPrediction": false,
+  "tags": ["BASIC", "EDUCATION", "EXAMPLES"],
+  "selfContained": true
+}

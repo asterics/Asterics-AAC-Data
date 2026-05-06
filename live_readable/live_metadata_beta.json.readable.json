@@ -445,6 +445,40 @@
   },
   {
     "name": {
+      "en": "Examples for education",
+      "de": "Beispiele für Schulen"
+    },
+    "author": "Projekt InDiKo, UAS Technikum Wien",
+    "website": "https://www.technikum-wien.at/forschungsprojekte/indiko/?n_tags=3154",
+    "languages": [
+      "de",
+      "en",
+      "es"
+    ],
+    "description": {
+      "en": "Configuration for communication in the context of education. Developed in project \"InDiKo\" at UAS Technikum Wien.",
+      "de": "Konfiguration für Kommunikation im Schul- oder Kindergartenkontext. Entwickelt im Projekt \"InDiKo\" and der FH Technikum Wien."
+    },
+    "wordPrediction": false,
+    "tags": [
+      "BASIC",
+      "EDUCATION",
+      "EXAMPLES"
+    ],
+    "selfContained": true,
+    "images": [
+      "communicators/Examples_education/1.jpg",
+      "communicators/Examples_education/2.jpg",
+      "communicators/Examples_education/3.jpg",
+      "communicators/Examples_education/4.jpg",
+      "communicators/Examples_education/5.jpg",
+      "communicators/Examples_education/6.jpg"
+    ],
+    "thumbnail": "communicators/Examples_education/thumbnail.jpg",
+    "url": "communicators/Examples_education/examples-education.grd.json"
+  },
+  {
+    "name": {
       "en": "Global-Core Communicator ARASAAC"
     },
     "author": "ARASAAC",
