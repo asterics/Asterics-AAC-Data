@@ -1,5 +1,35 @@
 [
   {
+    "name": {
+      "en": "AAC for Francophone Africa and its Diaspora",
+      "fr": "CAA pour l’Afrique francophone et sa diaspora"
+    },
+    "author": "Hadidja KEISLER",
+    "website": "https://cabinetnouveauregard.com/notre-cabinet/",
+    "languages": [
+      "fr"
+    ],
+    "description": {
+      "en": "This set of communication pages was designed to meet the everyday needs of people using AAC. It allows users to communicate in different contexts, express their needs, emotions, and preferences, ask questions, comment, and participate in discussions. Its vocabulary and scenarios have been carefully chosen to be adapted to the cultural context and daily lives of families in French-speaking Africa.",
+      "fr": "Cet ensemble de pages de communication a été conçu pour répondre aux besoins du quotidien des personnes utilisant la CAA. Il permet de communiquer dans différents contextes, d’exprimer ses besoins, ses émotions, ses préférences, de poser des questions, de commenter et de participer aux échanges. Son vocabulaire et ses situations ont été pensés pour être adaptés au contexte culturel et au quotidien des familles d’Afrique francophone."
+    },
+    "wordPrediction": true,
+    "tags": [
+      "COMMUNICATOR"
+    ],
+    "selfContained": true,
+    "images": [
+      "communicators/AAC for Francophone Africa/1.jpg",
+      "communicators/AAC for Francophone Africa/2.jpg",
+      "communicators/AAC for Francophone Africa/3.jpg",
+      "communicators/AAC for Francophone Africa/4.jpg",
+      "communicators/AAC for Francophone Africa/5.jpg",
+      "communicators/AAC for Francophone Africa/6.jpg"
+    ],
+    "thumbnail": "communicators/AAC for Francophone Africa/thumbnail.jpg",
+    "url": "communicators/AAC for Francophone Africa/aac_for_francophone_africa.grd.json"
+  },
+  {
     "name": "ABA Programmes_niveau avancé_V1",
     "author": "Créé par ABA Programmes - Ornella Grelier",
     "website": "https://www.abaprogrammes.com/",
