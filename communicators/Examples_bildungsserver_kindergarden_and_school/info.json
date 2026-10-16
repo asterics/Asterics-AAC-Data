@@ -1,0 +1,16 @@
+{
+  "name": {
+    "en": "Basic set for kindergarden and school",
+    "de": "Basis-Set Kindergarten und Schule"
+  },
+  "author": "Wiener Bildungsserver",
+  "website": "https://bildungsserver.wien/ ",
+  "languages": ["de"],
+  "description": {
+    "en": "The set supports educators and children in kindergarten and school with greetings, daily structure, expressing emotions, workflows, and rules of play. Visual communication boards provide clear orientation and facilitate daily communication in the educational routine.",
+    "de": "Das Set unterstützt Pädagog:innen und Kinder im Kindergarten und in der Schule bei Begrüßung, Tagesstruktur, Gefühlsausdruck, Arbeitsabläufen und Spielregeln. Anschauliche Kommunikationstafeln schaffen klare Orientierung und erleichtern die tägliche Kommunikation im Bildungsalltag."
+  },
+  "wordPrediction": false,
+  "tags": ["BASIC", "EDUCATION", "EXAMPLES"],
+  "selfContained": true
+}

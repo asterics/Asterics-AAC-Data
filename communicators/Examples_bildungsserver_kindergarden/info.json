@@ -1,0 +1,16 @@
+{
+  "name": {
+    "en": "Basic set for kindergarden",
+    "de": "Basis-Set Kindergarten"
+  },
+  "author": "Wiener Bildungsserver",
+  "website": "https://bildungsserver.wien/ ",
+  "languages": ["de"],
+  "description": {
+    "en": "The set supports educators with language development activities (stories, morning circle, learning letters). Clear symbols help children express themselves clearly and actively shape the daily kindergarten routine (e.g., morning circle, song selection).",
+    "de": "Das Set unterstützt Pädagog:innen bei sprachförderlichen Bildungsangeboten (Geschichten, Morgenkreis, Kennenlernen von Buchstaben). Anschauliche Symbole helfen Kindern dabei, sich klar auszudrücken und den Kindergarten-Alltag (z.B. Morgenkreis, Liederauswahl) aktiv mitzugestalten."
+  },
+  "wordPrediction": false,
+  "tags": ["BASIC", "EDUCATION", "EXAMPLES"],
+  "selfContained": true
+}
