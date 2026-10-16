@@ -475,6 +475,99 @@
   },
   {
     "name": {
+      "en": "Basic set for kindergarden",
+      "de": "Basis-Set Kindergarten"
+    },
+    "author": "Wiener Bildungsserver",
+    "website": "https://bildungsserver.wien/ ",
+    "languages": [
+      "de"
+    ],
+    "description": {
+      "en": "The set supports educators with language development activities (stories, morning circle, learning letters). Clear symbols help children express themselves clearly and actively shape the daily kindergarten routine (e.g., morning circle, song selection).",
+      "de": "Das Set unterstützt Pädagog:innen bei sprachförderlichen Bildungsangeboten (Geschichten, Morgenkreis, Kennenlernen von Buchstaben). Anschauliche Symbole helfen Kindern dabei, sich klar auszudrücken und den Kindergarten-Alltag (z.B. Morgenkreis, Liederauswahl) aktiv mitzugestalten."
+    },
+    "wordPrediction": false,
+    "tags": [
+      "BASIC",
+      "EDUCATION",
+      "EXAMPLES"
+    ],
+    "selfContained": true,
+    "images": [
+      "communicators/Examples_bildungsserver_kindergarden/1.jpg",
+      "communicators/Examples_bildungsserver_kindergarden/2.jpg",
+      "communicators/Examples_bildungsserver_kindergarden/3.jpg",
+      "communicators/Examples_bildungsserver_kindergarden/4.jpg",
+      "communicators/Examples_bildungsserver_kindergarden/5.jpg"
+    ],
+    "thumbnail": "communicators/Examples_bildungsserver_kindergarden/thumbnail.jpg",
+    "url": "communicators/Examples_bildungsserver_kindergarden/basis_set_kindergarten.grd.json"
+  },
+  {
+    "name": {
+      "en": "Basic set for kindergarden and school",
+      "de": "Basis-Set Kindergarten und Schule"
+    },
+    "author": "Wiener Bildungsserver",
+    "website": "https://bildungsserver.wien/ ",
+    "languages": [
+      "de"
+    ],
+    "description": {
+      "en": "The set supports educators and children in kindergarten and school with greetings, daily structure, expressing emotions, workflows, and rules of play. Visual communication boards provide clear orientation and facilitate daily communication in the educational routine.",
+      "de": "Das Set unterstützt Pädagog:innen und Kinder im Kindergarten und in der Schule bei Begrüßung, Tagesstruktur, Gefühlsausdruck, Arbeitsabläufen und Spielregeln. Anschauliche Kommunikationstafeln schaffen klare Orientierung und erleichtern die tägliche Kommunikation im Bildungsalltag."
+    },
+    "wordPrediction": false,
+    "tags": [
+      "BASIC",
+      "EDUCATION",
+      "EXAMPLES"
+    ],
+    "selfContained": true,
+    "images": [
+      "communicators/Examples_bildungsserver_kindergarden_and_school/1.jpg",
+      "communicators/Examples_bildungsserver_kindergarden_and_school/2.jpg",
+      "communicators/Examples_bildungsserver_kindergarden_and_school/3.jpg",
+      "communicators/Examples_bildungsserver_kindergarden_and_school/4.jpg",
+      "communicators/Examples_bildungsserver_kindergarden_and_school/5.jpg"
+    ],
+    "thumbnail": "communicators/Examples_bildungsserver_kindergarden_and_school/thumbnail.jpg",
+    "url": "communicators/Examples_bildungsserver_kindergarden_and_school/basis_set_kindergarten_schule.grd.json"
+  },
+  {
+    "name": {
+      "en": "Basic set for school",
+      "de": "Basis-Set Schule"
+    },
+    "author": "Wiener Bildungsserver",
+    "website": "https://bildungsserver.wien/ ",
+    "languages": [
+      "de"
+    ],
+    "description": {
+      "en": "These communication boards support students in their daily school life with learning letters, writing words, and using work plans. Picture symbols and structural aids additionally assist them in inventing and writing down their own stories.",
+      "de": "Diese Kommunikationstafeln unterstützen Schüler:innen im Schulalltag beim Buchstabenlernen, Wörterschreiben und dem Nutzen von Arbeitsplänen. Bildsymbole und Strukturhilfen begleiten sie zusätzlich beim Erfinden und Aufschreiben eigener Geschichten."
+    },
+    "wordPrediction": false,
+    "tags": [
+      "BASIC",
+      "EDUCATION",
+      "EXAMPLES"
+    ],
+    "selfContained": true,
+    "images": [
+      "communicators/Examples_bildungsserver_school/1.jpg",
+      "communicators/Examples_bildungsserver_school/2.jpg",
+      "communicators/Examples_bildungsserver_school/3.jpg",
+      "communicators/Examples_bildungsserver_school/4.jpg",
+      "communicators/Examples_bildungsserver_school/5.jpg"
+    ],
+    "thumbnail": "communicators/Examples_bildungsserver_school/thumbnail.jpg",
+    "url": "communicators/Examples_bildungsserver_school/basis_set_schule.grd.json"
+  },
+  {
+    "name": {
       "en": "Examples for education",
       "de": "Beispiele für Schulen"
     },
