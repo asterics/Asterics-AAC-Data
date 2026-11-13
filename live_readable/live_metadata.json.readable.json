@@ -152,7 +152,7 @@
       "en": "Demo configuration containing examples for basic communication, a YouTube player, webradio player, different keyboards and environmental control.",
       "de": "Demo Konfiguration für einfache Kommunikation, einen YouTube-Player, Webradio-Player, verschiedene Keyboard-Layouts und Umgebungssteuerung."
     },
-    "priority": 5,
+    "priority": 10,
     "wordPrediction": true,
     "tags": [
       "BASIC",
@@ -657,6 +657,9 @@
       "communicators/Global-Core Communicator ARASAAC/6.jpg"
     ],
     "thumbnail": "communicators/Global-Core Communicator ARASAAC/thumbnail.jpg",
+    "priority": {
+      "cs": 10
+    },
     "url": "communicators/Global-Core Communicator ARASAAC/cs/CZECH_Global-Core Communicator ARASAAC.grd.json",
     "languages": [
       "cs"
@@ -687,6 +690,9 @@
       "communicators/Global-Core Communicator ARASAAC/6.jpg"
     ],
     "thumbnail": "communicators/Global-Core Communicator ARASAAC/thumbnail.jpg",
+    "priority": {
+      "de": 10
+    },
     "url": "communicators/Global-Core Communicator ARASAAC/de/Globaler_Kommunikator-Core_ARASAAC_DE.grd.json",
     "languages": [
       "de"
@@ -716,6 +722,9 @@
       "communicators/Global-Core Communicator ARASAAC/6.jpg"
     ],
     "thumbnail": "communicators/Global-Core Communicator ARASAAC/thumbnail.jpg",
+    "priority": {
+      "en": 10
+    },
     "url": "communicators/Global-Core Communicator ARASAAC/en/Global-Core_Communicator_ARASAAC_EN.grd.json",
     "languages": [
       "en"

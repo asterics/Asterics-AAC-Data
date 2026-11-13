@@ -7,7 +7,7 @@
     "en": "Demo configuration containing examples for basic communication, a YouTube player, webradio player, different keyboards and environmental control.",
     "de": "Demo Konfiguration für einfache Kommunikation, einen YouTube-Player, Webradio-Player, verschiedene Keyboard-Layouts und Umgebungssteuerung."
   },
-  "priority": 5,
+  "priority": 10,
   "wordPrediction": true,
   "tags": ["BASIC", "4x5"]
 }
