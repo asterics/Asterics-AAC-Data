@@ -1,0 +1,16 @@
+{
+  "name": {
+    "en": "Basic set for school",
+    "de": "Basis-Set Schule"
+  },
+  "author": "Wiener Bildungsserver",
+  "website": "https://bildungsserver.wien/ ",
+  "languages": ["de"],
+  "description": {
+    "en": "These communication boards support students in their daily school life with learning letters, writing words, and using work plans. Picture symbols and structural aids additionally assist them in inventing and writing down their own stories.",
+    "de": "Diese Kommunikationstafeln unterstützen Schüler:innen im Schulalltag beim Buchstabenlernen, Wörterschreiben und dem Nutzen von Arbeitsplänen. Bildsymbole und Strukturhilfen begleiten sie zusätzlich beim Erfinden und Aufschreiben eigener Geschichten."
+  },
+  "wordPrediction": false,
+  "tags": ["BASIC", "EDUCATION", "EXAMPLES"],
+  "selfContained": true
+}

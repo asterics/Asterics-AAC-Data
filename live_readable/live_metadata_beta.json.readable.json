@@ -1,5 +1,35 @@
 [
   {
+    "name": {
+      "en": "AAC for Francophone Africa and its Diaspora",
+      "fr": "CAA pour l’Afrique francophone et sa diaspora"
+    },
+    "author": "Hadidja KEISLER",
+    "website": "https://cabinetnouveauregard.com/notre-cabinet/",
+    "languages": [
+      "fr"
+    ],
+    "description": {
+      "en": "This set of communication pages was designed to meet the everyday needs of people using AAC. It allows users to communicate in different contexts, express their needs, emotions, and preferences, ask questions, comment, and participate in discussions. Its vocabulary and scenarios have been carefully chosen to be adapted to the cultural context and daily lives of families in French-speaking Africa.",
+      "fr": "Cet ensemble de pages de communication a été conçu pour répondre aux besoins du quotidien des personnes utilisant la CAA. Il permet de communiquer dans différents contextes, d’exprimer ses besoins, ses émotions, ses préférences, de poser des questions, de commenter et de participer aux échanges. Son vocabulaire et ses situations ont été pensés pour être adaptés au contexte culturel et au quotidien des familles d’Afrique francophone."
+    },
+    "wordPrediction": true,
+    "tags": [
+      "COMMUNICATOR"
+    ],
+    "selfContained": true,
+    "images": [
+      "communicators/AAC for Francophone Africa/1.jpg",
+      "communicators/AAC for Francophone Africa/2.jpg",
+      "communicators/AAC for Francophone Africa/3.jpg",
+      "communicators/AAC for Francophone Africa/4.jpg",
+      "communicators/AAC for Francophone Africa/5.jpg",
+      "communicators/AAC for Francophone Africa/6.jpg"
+    ],
+    "thumbnail": "communicators/AAC for Francophone Africa/thumbnail.jpg",
+    "url": "communicators/AAC for Francophone Africa/aac_for_francophone_africa.grd.json"
+  },
+  {
     "name": "ABA Programmes_niveau avancé_V1",
     "author": "Créé par ABA Programmes - Ornella Grelier",
     "website": "https://www.abaprogrammes.com/",
@@ -122,7 +152,7 @@
       "en": "Demo configuration containing examples for basic communication, a YouTube player, webradio player, different keyboards and environmental control.",
       "de": "Demo Konfiguration für einfache Kommunikation, einen YouTube-Player, Webradio-Player, verschiedene Keyboard-Layouts und Umgebungssteuerung."
     },
-    "priority": 5,
+    "priority": 10,
     "wordPrediction": true,
     "tags": [
       "BASIC",
@@ -445,6 +475,133 @@
   },
   {
     "name": {
+      "en": "Basic set for kindergarden",
+      "de": "Basis-Set Kindergarten"
+    },
+    "author": "Wiener Bildungsserver",
+    "website": "https://bildungsserver.wien/ ",
+    "languages": [
+      "de"
+    ],
+    "description": {
+      "en": "The set supports educators with language development activities (stories, morning circle, learning letters). Clear symbols help children express themselves clearly and actively shape the daily kindergarten routine (e.g., morning circle, song selection).",
+      "de": "Das Set unterstützt Pädagog:innen bei sprachförderlichen Bildungsangeboten (Geschichten, Morgenkreis, Kennenlernen von Buchstaben). Anschauliche Symbole helfen Kindern dabei, sich klar auszudrücken und den Kindergarten-Alltag (z.B. Morgenkreis, Liederauswahl) aktiv mitzugestalten."
+    },
+    "wordPrediction": false,
+    "tags": [
+      "BASIC",
+      "EDUCATION",
+      "EXAMPLES"
+    ],
+    "selfContained": true,
+    "images": [
+      "communicators/Examples_bildungsserver_kindergarden/1.jpg",
+      "communicators/Examples_bildungsserver_kindergarden/2.jpg",
+      "communicators/Examples_bildungsserver_kindergarden/3.jpg",
+      "communicators/Examples_bildungsserver_kindergarden/4.jpg",
+      "communicators/Examples_bildungsserver_kindergarden/5.jpg"
+    ],
+    "thumbnail": "communicators/Examples_bildungsserver_kindergarden/thumbnail.jpg",
+    "url": "communicators/Examples_bildungsserver_kindergarden/basis_set_kindergarten.grd.json"
+  },
+  {
+    "name": {
+      "en": "Basic set for kindergarden and school",
+      "de": "Basis-Set Kindergarten und Schule"
+    },
+    "author": "Wiener Bildungsserver",
+    "website": "https://bildungsserver.wien/ ",
+    "languages": [
+      "de"
+    ],
+    "description": {
+      "en": "The set supports educators and children in kindergarten and school with greetings, daily structure, expressing emotions, workflows, and rules of play. Visual communication boards provide clear orientation and facilitate daily communication in the educational routine.",
+      "de": "Das Set unterstützt Pädagog:innen und Kinder im Kindergarten und in der Schule bei Begrüßung, Tagesstruktur, Gefühlsausdruck, Arbeitsabläufen und Spielregeln. Anschauliche Kommunikationstafeln schaffen klare Orientierung und erleichtern die tägliche Kommunikation im Bildungsalltag."
+    },
+    "wordPrediction": false,
+    "tags": [
+      "BASIC",
+      "EDUCATION",
+      "EXAMPLES"
+    ],
+    "selfContained": true,
+    "images": [
+      "communicators/Examples_bildungsserver_kindergarden_and_school/1.jpg",
+      "communicators/Examples_bildungsserver_kindergarden_and_school/2.jpg",
+      "communicators/Examples_bildungsserver_kindergarden_and_school/3.jpg",
+      "communicators/Examples_bildungsserver_kindergarden_and_school/4.jpg",
+      "communicators/Examples_bildungsserver_kindergarden_and_school/5.jpg"
+    ],
+    "thumbnail": "communicators/Examples_bildungsserver_kindergarden_and_school/thumbnail.jpg",
+    "url": "communicators/Examples_bildungsserver_kindergarden_and_school/basis_set_kindergarten_schule.grd.json"
+  },
+  {
+    "name": {
+      "en": "Basic set for school",
+      "de": "Basis-Set Schule"
+    },
+    "author": "Wiener Bildungsserver",
+    "website": "https://bildungsserver.wien/ ",
+    "languages": [
+      "de"
+    ],
+    "description": {
+      "en": "These communication boards support students in their daily school life with learning letters, writing words, and using work plans. Picture symbols and structural aids additionally assist them in inventing and writing down their own stories.",
+      "de": "Diese Kommunikationstafeln unterstützen Schüler:innen im Schulalltag beim Buchstabenlernen, Wörterschreiben und dem Nutzen von Arbeitsplänen. Bildsymbole und Strukturhilfen begleiten sie zusätzlich beim Erfinden und Aufschreiben eigener Geschichten."
+    },
+    "wordPrediction": false,
+    "tags": [
+      "BASIC",
+      "EDUCATION",
+      "EXAMPLES"
+    ],
+    "selfContained": true,
+    "images": [
+      "communicators/Examples_bildungsserver_school/1.jpg",
+      "communicators/Examples_bildungsserver_school/2.jpg",
+      "communicators/Examples_bildungsserver_school/3.jpg",
+      "communicators/Examples_bildungsserver_school/4.jpg",
+      "communicators/Examples_bildungsserver_school/5.jpg"
+    ],
+    "thumbnail": "communicators/Examples_bildungsserver_school/thumbnail.jpg",
+    "url": "communicators/Examples_bildungsserver_school/basis_set_schule.grd.json"
+  },
+  {
+    "name": {
+      "en": "Examples for education",
+      "de": "Beispiele für Schulen"
+    },
+    "author": "Projekt InDiKo, UAS Technikum Wien",
+    "website": "https://www.technikum-wien.at/forschungsprojekte/indiko/?n_tags=3154",
+    "languages": [
+      "de",
+      "en",
+      "es"
+    ],
+    "description": {
+      "en": "Configuration for communication in the context of education. Developed in project \"InDiKo\" at UAS Technikum Wien.",
+      "de": "Konfiguration für Kommunikation im Schul- oder Kindergartenkontext. Entwickelt im Projekt \"InDiKo\" and der FH Technikum Wien."
+    },
+    "wordPrediction": false,
+    "tags": [
+      "BASIC",
+      "EDUCATION",
+      "EXAMPLES"
+    ],
+    "selfContained": true,
+    "images": [
+      "communicators/Examples_education/1.jpg",
+      "communicators/Examples_education/2.jpg",
+      "communicators/Examples_education/3.jpg",
+      "communicators/Examples_education/4.jpg",
+      "communicators/Examples_education/5.jpg",
+      "communicators/Examples_education/6.jpg"
+    ],
+    "thumbnail": "communicators/Examples_education/thumbnail.jpg",
+    "url": "communicators/Examples_education/examples-education.grd.json"
+  },
+  {
+    "name": {
       "en": "Global-Core Communicator ARASAAC"
     },
     "author": "ARASAAC",
@@ -500,6 +657,9 @@
       "communicators/Global-Core Communicator ARASAAC/6.jpg"
     ],
     "thumbnail": "communicators/Global-Core Communicator ARASAAC/thumbnail.jpg",
+    "priority": {
+      "cs": 10
+    },
     "url": "communicators/Global-Core Communicator ARASAAC/cs/CZECH_Global-Core Communicator ARASAAC.grd.json",
     "languages": [
       "cs"
@@ -530,6 +690,9 @@
       "communicators/Global-Core Communicator ARASAAC/6.jpg"
     ],
     "thumbnail": "communicators/Global-Core Communicator ARASAAC/thumbnail.jpg",
+    "priority": {
+      "de": 10
+    },
     "url": "communicators/Global-Core Communicator ARASAAC/de/Globaler_Kommunikator-Core_ARASAAC_DE.grd.json",
     "languages": [
       "de"
@@ -559,6 +722,9 @@
       "communicators/Global-Core Communicator ARASAAC/6.jpg"
     ],
     "thumbnail": "communicators/Global-Core Communicator ARASAAC/thumbnail.jpg",
+    "priority": {
+      "en": 10
+    },
     "url": "communicators/Global-Core Communicator ARASAAC/en/Global-Core_Communicator_ARASAAC_EN.grd.json",
     "languages": [
       "en"
